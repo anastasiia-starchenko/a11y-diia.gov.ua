@@ -7624,7 +7624,7 @@ strong {
 a:focus,
 button:focus,
 [role="button"]:focus {
-    outline: none !important;
+    outline: 3px solid #0073e6 !important;
     border-bottom-color: transparent !important;
 }
 .btn-close {
